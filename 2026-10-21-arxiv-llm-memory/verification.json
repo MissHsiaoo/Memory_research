@@ -1,0 +1,474 @@
+[
+  {
+    "rank": 1,
+    "id": "2610.27495",
+    "title": "Self-Evolving Agents through Privileged Retrospective Distillation",
+    "note": "01-RSD.md",
+    "pdf": "pdfs/2610.27495.pdf",
+    "pages": 26,
+    "bytes": 746824,
+    "sha256": "e7e8d5e95a2b5b87ff878a8d71c96b42f8712e031863a1630f2a225ddae3c45c",
+    "submission": "20 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs.LG",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "Meta AI",
+    "priority": "P1A",
+    "reading_scope": "正文§3–5、表1–2（PDF第3–8页）；首页"
+  },
+  {
+    "rank": 2,
+    "id": "2610.28624",
+    "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
+    "note": "02-Industrial-ReMEmbR.md",
+    "pdf": "pdfs/2610.28624.pdf",
+    "pages": 30,
+    "bytes": 10613693,
+    "sha256": "85e0a37ff849404c4fdb091da5ed24c390e5efd4988ba02d585c8be4a4f1a8ff",
+    "submission": "20 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "NVIDIA；Idealworks",
+    "priority": "P1A",
+    "reading_scope": "正文§4、§6（PDF第7–9、12–17页）；首页"
+  },
+  {
+    "rank": 3,
+    "id": "2610.27377",
+    "title": "REM: What to Store, When to Recall, What to Forget in Experience Memory for Coding Agents",
+    "note": "03-REM.md",
+    "pdf": "pdfs/2610.27377.pdf",
+    "pages": 16,
+    "bytes": 1119831,
+    "sha256": "16aacb74782210a9bdd440c2adf9fbc7f9de01f5b25066ce2f54f0707aeaf7e2",
+    "submission": "19 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs.AI",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "Yale University；Amazon",
+    "priority": "P1A",
+    "reading_scope": "正文§3–5、Limitations（PDF第3–10页）；首页"
+  },
+  {
+    "rank": 4,
+    "id": "2610.27406",
+    "title": "More Memory, Worse Agents: Error Reproduction and Anti-Persistence in LLM Agents",
+    "note": "04-Anti-Persistence.md",
+    "pdf": "pdfs/2610.27406.pdf",
+    "pages": 31,
+    "bytes": 1711833,
+    "sha256": "d286fe0f9c7361e09527a8869bcf93b2b313b43de367dfd528490892c7201a52",
+    "submission": "19 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs.AI",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "Indiana University；Tencent HY",
+    "priority": "P1A",
+    "reading_scope": "正文§3–4、表1（PDF第4–7页）及附录H第31页；首页"
+  },
+  {
+    "rank": 5,
+    "id": "2610.27227",
+    "title": "Which Agent's Skill Should Change? Group-Relative Credit Assignment for Evolving Multi-Agent Teams",
+    "note": "05-GRSE.md",
+    "pdf": "pdfs/2610.27227.pdf",
+    "pages": 24,
+    "bytes": 909402,
+    "sha256": "edaa2539152ab71ca878d9bf2ac96808df6f9df40c2c02827e11bcf5a51b1446",
+    "submission": "19 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs.CL",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "Alibaba Token Hub（Alibaba）；Mayo Clinic；University of Manchester；Shanghai University of Finance and Economics",
+    "priority": "P1A",
+    "reading_scope": "正文§3–5、表1（PDF第4–6页），Limitations第9–10页；首页"
+  },
+  {
+    "rank": 6,
+    "id": "2610.28559",
+    "title": "Large Flow Language Models",
+    "note": "06-Lafa.md",
+    "pdf": "pdfs/2610.28559.pdf",
+    "pages": 27,
+    "bytes": 1102349,
+    "sha256": "025ef8a4df563c29904b9c9a5040d599114534468a54281a2a8214ff76a17e10",
+    "submission": "20 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs.CL",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "UC Berkeley；Amazon；KAIST；Carnegie Mellon University",
+    "priority": "P1A",
+    "reading_scope": "正文§2–3、表1（PDF第4、6–8页）；首页"
+  },
+  {
+    "rank": 7,
+    "id": "2610.27307",
+    "title": "Evolving Self-tuning Benchmarks for Long-Horizon Tool Use",
+    "note": "07-TURTLE.md",
+    "pdf": "pdfs/2610.27307.pdf",
+    "pages": 29,
+    "bytes": 4629966,
+    "sha256": "3ba47a0afea27ab7aeb0b1f38b5b707d8f37f3bf01dae9f8261d49a823b1311a",
+    "submission": "19 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs.AI",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "Google DeepMind；Stanford University；University of Washington",
+    "priority": "P1A",
+    "reading_scope": "正文§3–5（PDF第4–6页）与Limitations第9页；首页"
+  },
+  {
+    "rank": 8,
+    "id": "2610.28380",
+    "title": "Object-Oriented Harness: Evolving Agent Harnesses through Object-Oriented Design",
+    "note": "08-OO-Harness.md",
+    "pdf": "pdfs/2610.28380.pdf",
+    "pages": 20,
+    "bytes": 5351168,
+    "sha256": "30d157984f16072ebac9bb42f39eb2630ec0163dfcf0e096fc3a986974fe6a02",
+    "submission": "20 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs.CL",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "Google Cloud AI Research；University of Illinois Urbana-Champaign",
+    "priority": "P1A",
+    "reading_scope": "正文§3–5（PDF第4–7页）、Limitations第10页；首页"
+  },
+  {
+    "rank": 9,
+    "id": "2610.27435",
+    "title": "Harness Self-Evolution for Long-Horizon Terminal Agents",
+    "note": "09-RiseHarness.md",
+    "pdf": "pdfs/2610.27435.pdf",
+    "pages": 38,
+    "bytes": 7997157,
+    "sha256": "30d1105c89200d9b32e0c98b67a7187422a9048859a4938d4bacbcf57ea65c56",
+    "submission": "20 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs.AI",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "Tencent HY LLM Frontier；Indiana University；University of Maryland College Park；University of Georgia；National University of Singapore",
+    "priority": "P1A",
+    "reading_scope": "正文§3–4（PDF第4–10页）、附录E；首页"
+  },
+  {
+    "rank": 10,
+    "id": "2610.27781",
+    "title": "GRADUS: Discovering and Recovering Agent Lessons from the Environment's Latent Syllabus",
+    "note": "10-GRADUS.md",
+    "pdf": "pdfs/2610.27781.pdf",
+    "pages": 24,
+    "bytes": 4225942,
+    "sha256": "09309ab58b699357db422cb1162eddf72b4b3249cbfa72ba5e53ef56cb506a45",
+    "submission": "20 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs.AI",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "AWS AI；University of Southern California；BMW Group Research and Technology",
+    "priority": "P1A",
+    "reading_scope": "正文§2–3、表1–3（PDF第4–9页）；首页"
+  },
+  {
+    "rank": 11,
+    "id": "2610.27580",
+    "title": "Factual Access States in Diffusion Language Models: From Mechanism to Knowledge Editing and Retrieval",
+    "note": "11-Factual-Access-States.md",
+    "pdf": "pdfs/2610.27580.pdf",
+    "pages": 35,
+    "bytes": 5678764,
+    "sha256": "a995dc9e75dd77ae263b0c3e2c9f2a1a1f1f855ef1a2cd7593a5708b2add228d",
+    "submission": "20 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs.CL",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "The University of Tokyo；LIGHTSPEED；Independent Researcher",
+    "priority": "P1B",
+    "reading_scope": "正文§2–3（PDF第3–7页）及附录G；首页"
+  },
+  {
+    "rank": 12,
+    "id": "2610.27628",
+    "title": "PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking",
+    "note": "12-PAR.md",
+    "pdf": "pdfs/2610.27628.pdf",
+    "pages": 11,
+    "bytes": 499312,
+    "sha256": "c175a94843a485e64971fa3a1d250b68c01242953e6e63cda33bfd8e8cc90631",
+    "submission": "20 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs.CL",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "Ant International；National University of Singapore",
+    "priority": "P1B",
+    "reading_scope": "正文§3、§5–6、Limitations（PDF第3、5–7页）；首页"
+  },
+  {
+    "rank": 13,
+    "id": "2610.26955",
+    "title": "LAMB: Latent Multi-Hypothesis Beliefs for Long-Horizon Large Language Agents",
+    "note": "13-LAMB.md",
+    "pdf": "pdfs/2610.26955.pdf",
+    "pages": 28,
+    "bytes": 1742753,
+    "sha256": "3b1f7dece41cbc9ae53815859c042bc2948c3de4b503a3feae4390674dc5ebfd",
+    "submission": "18 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs.CL",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "Xiamen University；MBZUAI",
+    "priority": "P1B",
+    "reading_scope": "正文§3–5、表1–2（PDF第4–9页）；首页"
+  },
+  {
+    "rank": 14,
+    "id": "2610.27700",
+    "title": "Memory as Code: Declarative Retrieval over Codified Long-Term Memory",
+    "note": "14-Memory-as-Code.md",
+    "pdf": "pdfs/2610.27700.pdf",
+    "pages": 15,
+    "bytes": 1896824,
+    "sha256": "2ff4d1191dbb54ec35ffa5f9f20734ea4983b6ea06fc01ea56d6d668a4e8b664",
+    "submission": "20 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs.CL",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "Shanghai Jiao Tong University；University of New South Wales；The Chinese University of Hong Kong Shenzhen",
+    "priority": "P1B",
+    "reading_scope": "正文§2–3（PDF第3–8页）；首页"
+  },
+  {
+    "rank": 15,
+    "id": "2610.28491",
+    "title": "OptionWorld: A Benchmark for Diagnosing Failures of LLMs as Long-Term Personal Assistants",
+    "note": "15-OptionWorld.md",
+    "pdf": "pdfs/2610.28491.pdf",
+    "pages": 31,
+    "bytes": 1246905,
+    "sha256": "650f6b4119fcd4ad54ed7d98640fa3ccffc64a97ba4f74faedf5fe80d12181d6",
+    "submission": "20 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs.CL",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "University of British Columbia；University of Chicago；Princeton University；Independent Researcher",
+    "priority": "P1B",
+    "reading_scope": "正文§3–4（PDF第4–6页）及Limitations；首页"
+  },
+  {
+    "rank": 16,
+    "id": "2610.27400",
+    "title": "ProMemAgent: Long-Horizon Proactive Assistance with Context-Aware Prospective Memory from Sensory Perceptions",
+    "note": "16-ProMemAgent.md",
+    "pdf": "pdfs/2610.27400.pdf",
+    "pages": 18,
+    "bytes": 954202,
+    "sha256": "4c1467e4001edda48bd505e8a4c6e23b3b230ab553f4fe770cd57a87d6467c9e",
+    "submission": "19 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs.AI",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "Columbia University",
+    "priority": "P1B",
+    "reading_scope": "正文§3–5（PDF第4–6页）及Limitations第9页；首页"
+  },
+  {
+    "rank": 17,
+    "id": "2610.28577",
+    "title": "Cache Engineering for Agents",
+    "note": "17-AKV.md",
+    "pdf": "pdfs/2610.28577.pdf",
+    "pages": 21,
+    "bytes": 562881,
+    "sha256": "e4cc7d84bed9c9b0273f32c5d4fee7cb22b5480412f9e9802fe4eaf46ae832a4",
+    "submission": "20 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs.CL",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "Tsinghua University；The Chinese University of Hong Kong",
+    "priority": "P1B",
+    "reading_scope": "正文§3–5、表1–2（PDF第3、5–9页）；首页"
+  },
+  {
+    "rank": 18,
+    "id": "2610.27581",
+    "title": "DuplexLedger: Benchmarking Transactional Memory in Full-Duplex Speech Agents",
+    "note": "18-DuplexLedger.md",
+    "pdf": "pdfs/2610.27581.pdf",
+    "pages": 38,
+    "bytes": 7376652,
+    "sha256": "86177f5199575520d167ed4aa8d79eec73ea2349d71a732c5718e6ac8a77196b",
+    "submission": "20 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs.AI",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "Nanyang Technological University；Peking University；Beijing University of Technology；Xidian University；University of Melbourne；China Aerospace Science and Industry Corporation",
+    "priority": "P1B",
+    "reading_scope": "正文§3、§5–6（PDF第4、6–7页）及附录I；首页"
+  },
+  {
+    "rank": 19,
+    "id": "2610.27607",
+    "title": "What should AI forget? A design and taxonomy for negative space governance in AI memory",
+    "note": "19-FENCE.md",
+    "pdf": "pdfs/2610.27607.pdf",
+    "pages": 40,
+    "bytes": 2618134,
+    "sha256": "a5b09964236616bbe236686663c4a197dd0864caa662570bbc9f63845228142f",
+    "submission": "20 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "University of Illinois Urbana-Champaign；Northeastern University",
+    "priority": "P1B",
+    "reading_scope": "正文§3、§5–6（PDF第6、8、12、16页）；首页"
+  },
+  {
+    "rank": 20,
+    "id": "2610.27524",
+    "title": "MemDev-Bench: Does Memory Help Code Agents?Benchmarking Memory Systems over Real Repository Histories",
+    "note": "20-MemDev-Bench.md",
+    "pdf": "pdfs/2610.27524.pdf",
+    "pages": 41,
+    "bytes": 1722487,
+    "sha256": "557765bda209cc377ca9c6d918df4c80d29ecdfa7e66c2999d5295b3d1d1a776",
+    "submission": "20 Oct 2026",
+    "official_new_sources": [
+      {
+        "category": "cs",
+        "heading": "Wednesday, 21 October 2026"
+      },
+      {
+        "category": "cs.AI",
+        "heading": "Wednesday, 21 October 2026"
+      }
+    ],
+    "institutions": "Southeast University；Southern University of Science and Technology；MemoraX AI",
+    "priority": "P2补充",
+    "reading_scope": "正文§2–4（PDF第4–9页）及Limitations；首页"
+  }
+]
