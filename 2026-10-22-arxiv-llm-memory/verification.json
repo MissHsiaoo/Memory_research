@@ -1,0 +1,465 @@
+{
+  "date": "2026-10-22",
+  "status": "complete-local",
+  "selected": 20,
+  "new_catalog_size": 754,
+  "verified_at": "2026-10-22T08:59:06.940511+00:00",
+  "papers": [
+    {
+      "id": "2610.28987",
+      "title": "PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust",
+      "note": "01-PerMIT.md",
+      "pdf": "pdf/2610.28987.pdf",
+      "pages": 146,
+      "sha256": "d2081e9355d370eec0eb3d47846c511daf4e00b730c8e624dbb9480cdeb6258e",
+      "submission": "20 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs.AI",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "AWS AI Labs；Stony Brook University",
+      "priority": "A",
+      "credibility": 4,
+      "reading_scope": "首页与正文第4–6、9–10页；未逐条复核146页证明或运行Lean"
+    },
+    {
+      "id": "2610.29671",
+      "title": "Uni-Mem: Learning a Long-Horizon Agentic Memory Manager with Unified Online Policy Optimization",
+      "note": "02-Uni-Mem.md",
+      "pdf": "pdf/2610.29671.pdf",
+      "pages": 21,
+      "sha256": "64ecf4ff1eea85d8402941742052ca3434f103999385bb5491d8bbaf61a0280d",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs.CL",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "Huawei Noah’s Ark Lab；东南大学；中山大学；山东师范大学",
+      "priority": "A",
+      "credibility": 4,
+      "reading_scope": "首页、正文第3–7页及主结果表"
+    },
+    {
+      "id": "2610.29995",
+      "title": "Remembering Through Change: Provenance-Preserving Hypergraph Memory for Multimodal Agents",
+      "note": "03-MHG-Mem.md",
+      "pdf": "pdf/2610.29995.pdf",
+      "pages": 31,
+      "sha256": "5a53a70852e452ec7693fd71d3bf400b9c747b27abf4e5e33bff6f77736c6225",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs.CL",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "Huawei Noah’s Ark Lab；中山大学；东南大学；山东师范大学",
+      "priority": "A",
+      "credibility": 4,
+      "reading_scope": "首页及正文第5–8页方法、结果和消融"
+    },
+    {
+      "id": "2610.29467",
+      "title": "PreCoMem: Predictive Cognitive Memory for Self-Evolving Long-Term Dialogue Agents",
+      "note": "04-PreCoMem.md",
+      "pdf": "pdf/2610.29467.pdf",
+      "pages": 44,
+      "sha256": "0fa04b1a763850d86830e094502a30c78d0b94c58c323b3440c4cb0fe3f0f6c3",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs.AI",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "南开大学；vivo AI Lab；清华大学；华中科技大学；中国科学院大学",
+      "priority": "A",
+      "credibility": 4,
+      "reading_scope": "首页及正文第4–8页；附录未逐项复核"
+    },
+    {
+      "id": "2610.29249",
+      "title": "MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents",
+      "note": "05-MOSAIC.md",
+      "pdf": "pdf/2610.29249.pdf",
+      "pages": 33,
+      "sha256": "7cb367910e4507e08bea2f4743e6dff3709940ef0a40fee4d20a5be434b557f6",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs.CL",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "香港科技大学；爱丁堡大学",
+      "priority": "A",
+      "credibility": 4,
+      "reading_scope": "首页及正文第4–6页诊断协议、数据审计与主表"
+    },
+    {
+      "id": "2610.29303",
+      "title": "ExpEvolve: Structuring and Reusing Experience for Open-Ended Discovery",
+      "note": "06-ExpEvolve.md",
+      "pdf": "pdf/2610.29303.pdf",
+      "pages": 46,
+      "sha256": "7a0fdb0f6d986ee81c2eedc50129f501443fcd93375da7c0dcfffba05dafc5bf",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs.LG",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "MBZUAI；CMU；香港浸会大学；香港中文大学；悉尼大学",
+      "priority": "A",
+      "credibility": 4,
+      "reading_scope": "首页及正文第4、6、8–9页；理论证明未独立复算"
+    },
+    {
+      "id": "2610.30132",
+      "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+      "note": "07-LongZero.md",
+      "pdf": "pdf/2610.30132.pdf",
+      "pages": 17,
+      "sha256": "5b5663b2a179277b2b3e18f075b7f9b04ee6862fa42ab08bc7f93e284da897ac",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs.CL",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "清华大学",
+      "priority": "A",
+      "credibility": 3,
+      "reading_scope": "首页及正文第3、5、7页；未复核所有附录配置"
+    },
+    {
+      "id": "2610.29352",
+      "title": "Don't Stop Long-Context Continual Pre-Training Too Early: An Empirical Scaling Law",
+      "note": "08-Long-Context-Scaling.md",
+      "pdf": "pdf/2610.29352.pdf",
+      "pages": 32,
+      "sha256": "865b61aee63217e6f32004c8e01fdb3841814e476319859549f58603f1609677",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs.CL",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "清华大学；OpenBMB",
+      "priority": "A",
+      "credibility": 4,
+      "reading_scope": "首页及正文第5–6页外推和观测协议"
+    },
+    {
+      "id": "2610.29357",
+      "title": "Memory-Centric Continual Learning for AI Agents",
+      "note": "09-MCCL.md",
+      "pdf": "pdf/2610.29357.pdf",
+      "pages": 50,
+      "sha256": "f5d32f7b605cc18e033b1820e99aa23ac715671a7bf10b1608abfd5324bce268",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs.CL",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "哈尔滨工业大学（深圳）；深圳河套学院；清华大学；东南大学；中国电信星辰AGI实验室；华为",
+      "priority": "A",
+      "credibility": 3,
+      "reading_scope": "首页、正文第5、9、15–16、18页及第50页机构作者表"
+    },
+    {
+      "id": "2610.30066",
+      "title": "Looped Uniform Diffusion Language Models",
+      "note": "10-Looped-UDLM.md",
+      "pdf": "pdf/2610.30066.pdf",
+      "pages": 27,
+      "sha256": "359fb6f15e9ef19e59a32628f7feef9a6a645d54cce6f2f294c84b3eaf74ec02",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs.CL",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "MBZUAI；Sony Group；MIT",
+      "priority": "A",
+      "credibility": 4,
+      "reading_scope": "首页及正文第4、6、8页"
+    },
+    {
+      "id": "2610.29255",
+      "title": "Hierarchical Masked Diffusion Language Models",
+      "note": "11-HMDLM.md",
+      "pdf": "pdf/2610.29255.pdf",
+      "pages": 32,
+      "sha256": "d0e1b866bfa098d5bd48d6ccfe654377e4e04e7bb9db02e04fae8776ff662a28",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs.CL",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "IIT Delhi；IBM Research",
+      "priority": "A",
+      "credibility": 3,
+      "reading_scope": "首页及正文第4、6、8页"
+    },
+    {
+      "id": "2610.29250",
+      "title": "Let Agents Design How They Search: Automatic Interface Optimization for Agentic Search",
+      "note": "12-SearchWeaver.md",
+      "pdf": "pdf/2610.29250.pdf",
+      "pages": 11,
+      "sha256": "64ace5fb95b8dd1be07475b26e0b8ef8221977a5ac70c764f2b74f3c82c94393",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs.CL",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "KAIST；高丽大学",
+      "priority": "A",
+      "credibility": 4,
+      "reading_scope": "首页及正文第3、5页和方法描述"
+    },
+    {
+      "id": "2610.28686",
+      "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+      "note": "13-ClariEdge.md",
+      "pdf": "pdf/2610.28686.pdf",
+      "pages": 17,
+      "sha256": "5ee48cf14a97e30ae905088967119a3fcacf9bc74093f388b59591ae181eb5c3",
+      "submission": "19 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs.AI",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "IBM Research",
+      "priority": "A",
+      "credibility": 3,
+      "reading_scope": "首页及正文第4、6页"
+    },
+    {
+      "id": "2610.29317",
+      "title": "SpatialBrain: Spatial Intelligence Growing from Experience",
+      "note": "14-SpatialBrain.md",
+      "pdf": "pdf/2610.29317.pdf",
+      "pages": 29,
+      "sha256": "7a055252e3f639e3b3da474502b50b44ae6c85d3077a8cb591f58535e4ae957d",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs.AI",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "上海交通大学；浙江大学",
+      "priority": "A",
+      "credibility": 3,
+      "reading_scope": "首页及正文第4、6页"
+    },
+    {
+      "id": "2610.29223",
+      "title": "C$^2$U in RAG: Compositional Concept Unlearning in Retrieval-Augmented Generation",
+      "note": "15-C2U-RAG.md",
+      "pdf": "pdf/2610.29223.pdf",
+      "pages": 37,
+      "sha256": "59fda98b11f234b94160a714c46d9eea23d2751edbdf13d6cb9adf67bcf3b62e",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs.CL",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "南洋理工大学；东京科学大学；北京航空航天大学",
+      "priority": "A",
+      "credibility": 3,
+      "reading_scope": "首页及正文第4、6页"
+    },
+    {
+      "id": "2610.29792",
+      "title": "MAPS: Macro-Adaptive Parallel Reasoning for Regulating Search Momentum in Retrieval-Augmented Generation",
+      "note": "16-MAPS.md",
+      "pdf": "pdf/2610.29792.pdf",
+      "pages": 20,
+      "sha256": "4458f4ad58b048bb112f6e2696316cdcc4215a23fe912293574064097746c517",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs.CL",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "东北大学（沈阳）；清华大学",
+      "priority": "A",
+      "credibility": 3,
+      "reading_scope": "首页及正文第4、6页"
+    },
+    {
+      "id": "2610.29298",
+      "title": "Generative Recommenders Forget the Long Tail: Restoring Memorization in Retrieval and Ranking",
+      "note": "17-CAPE.md",
+      "pdf": "pdf/2610.29298.pdf",
+      "pages": 13,
+      "sha256": "c9a51ab713aa708d01e43aaa9a615e95c583a77b8e9e0964df5de0edfd48528b",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "中国科学技术大学；三位作者首页署名Independent Researcher",
+      "priority": "A",
+      "credibility": 4,
+      "reading_scope": "首页及正文第3、6页诊断和主结果"
+    },
+    {
+      "id": "2610.29823",
+      "title": "MemoryTax: The Bitter Lesson of Agent Memory",
+      "note": "18-MemoryTax.md",
+      "pdf": "pdf/2610.29823.pdf",
+      "pages": 11,
+      "sha256": "2072c9ff8287ccc30e4929dbedbd2bf945240436c7811521843f259711d4b1c9",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs.CL",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "上海交通大学",
+      "priority": "A",
+      "credibility": 2,
+      "reading_scope": "首页及正文第3–4页实验、成本与限制"
+    },
+    {
+      "id": "2610.29136",
+      "title": "GRAFT: Restoring the Missing Sampling Interface in Continuous Diffusion Language Models",
+      "note": "19-GRAFT.md",
+      "pdf": "pdf/2610.29136.pdf",
+      "pages": 43,
+      "sha256": "caf1a708e52c166f5e4f4b813940185ec9ff8b9c48c7f796d1818778488a0678",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs.CL",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "电子科技大学",
+      "priority": "A",
+      "credibility": 3,
+      "reading_scope": "首页及正文第4、6页机制诊断和方法"
+    },
+    {
+      "id": "2610.29822",
+      "title": "UserSWE: Evaluating Coding Agents in Multi-Turn Conversations with Dynamic Users",
+      "note": "20-UserSWE.md",
+      "pdf": "pdf/2610.29822.pdf",
+      "pages": 22,
+      "sha256": "ba98d7ee4f7e780a3c735b7b943042df58ab95b83bb150d259a7cf2bd51228fe",
+      "submission": "21 Oct 2026",
+      "official_new_sources": [
+        {
+          "category": "cs",
+          "heading": "Thursday, 22 October 2026"
+        },
+        {
+          "category": "cs.AI",
+          "heading": "Thursday, 22 October 2026"
+        }
+      ],
+      "institutions": "Tencent Hunyuan",
+      "priority": "A",
+      "credibility": 3,
+      "reading_scope": "首页及正文第5–6页任务流程与实验设计"
+    }
+  ]
+}
